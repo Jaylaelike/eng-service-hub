@@ -2,11 +2,10 @@ id,service_name,url_services,updateAt,createAt,category
 48f86260-9a0c-4634-95ff-260a167b7f86,SkyView Coverage,https://sky-view-coverage.vercel.app/,2025-06-11T07:45:22.438Z,2025-06-11T04:34:33.030Z,Planning
 42bc055c-34dc-4e62-a822-f43412ba744e,TIE Monitoring System,http://172.16.202.63:5173/,2025-06-11T07:45:59.559Z,2025-06-11T04:34:33.030Z,Broadcasting
 28a77a84-d5f6-414b-845b-095aca3702d7,PM 2.5 Dashboard,http://172.16.202.63:3003/heat,2025-06-11T07:48:29.910Z,2025-06-11T04:34:33.030Z,Notification
-e22662a0-a0dd-4e17-83ce-165d469ad9cf,Quiz App Game,https://quiz-app-thaipbs.vercel.app,2025-06-11T10:50:26.619Z,2025-06-11T04:34:33.030Z,Gaming
+e22662a0-a0dd-4e17-83ce-165d469ad9cf,Pun Smong Quiz,https://pun-smong-quiz-game.vercel.app,2025-06-11T10:50:26.619Z,2025-06-11T04:34:33.030Z,Gaming
 57be5e2e-4f9b-497e-9b00-77b81e217dec,การใช้รถ (Cars Form Services),http://172.16.202.63:3000/,2025-06-11T07:50:59.184Z,2025-06-11T04:34:33.030Z,Management
-df654da4-1c6c-453c-a9ae-ad7a6c0c333d,เกมสุ่มผู้โชคดี (Random Game),https://random-game-thaipbs.vercel.app/,2025-06-11T07:52:12.961Z,2025-06-11T07:52:12.961Z,Gaming
 38749610-03d5-4aa7-9a77-ac102962b886,รายงานสถานะทั่วประเทศ (Realtime Dashboard Broadcasting),http://172.16.202.63:8080,2025-06-11T07:54:17.993Z,2025-06-11T07:54:17.993Z,Broadcasting
 81220cd9-0638-4254-962c-cb66900a0b21,Online Report,http://10.0.1.225/Performance_Reporting_System/Report_Dashbord2.aspx,2025-06-11T07:55:13.377Z,2025-06-11T07:55:13.377Z,Broadcasting
 4fe505f1-d6e3-488b-b03e-c2078a742dee,เกมหมุนวงล้อ (Wheel Game),https://wheel-game-thaipbs.vercel.app,2025-06-11T07:57:30.783Z,2025-06-11T07:57:30.783Z,Gaming
 d7362be1-2044-4ffe-af81-20a582057bab,Downtime NOC Report,http://172.16.202.63:3002/,2025-06-11T07:58:39.989Z,2025-06-11T07:58:39.989Z,Management
-4a33e458-b543-48ad-9c10-068abcf6523f,S4C Forecasting Application,https://s4c-trajectory-project-app.vercel.app/,2025-06-19T03:52:29.471Z,2025-06-12T03:35:01.874Z,Broadcasting
+4a33e458-b543-48ad-9c10-068abcf6523f,S4C Forecasting Application,http://172.16.116.82:3000,2025-06-19T03:52:29.471Z,2025-06-12T03:35:01.874Z,Broadcasting
